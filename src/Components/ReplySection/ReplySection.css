@@ -1,0 +1,35 @@
+.replySection{
+    width: 80%;
+    height: 100px;
+    margin-left: 10%;
+    border-radius: 10px;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
+.replySection img{
+    margin-left: 1%;
+}
+.replySection input{
+    width: 60%;
+    height: 80%;
+    margin-left: 2%;
+    border-radius: 10px;
+    border:1px solid gray
+
+
+}
+.replySection button{
+    margin-right: 1%;
+    margin-left: 1%;
+    width: 20%;
+    height:auto;
+    padding: 5px;
+    background-color: rgb(100, 92, 223);;
+    color: aliceblue;
+    font-size:16px;
+    font-weight: bold;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}

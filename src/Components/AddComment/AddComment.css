@@ -1,0 +1,33 @@
+#newpost {
+    width: 95%;
+    height: 120px;
+    box-sizing: border-box;
+    margin: 20px 20px 20px 20px;
+    background-color: rgb(234, 240, 241);
+    display: inline-flex;
+    padding: 10px;
+    border-radius: 10px;
+  }
+  #newpost img {
+    width: 50px;
+    height: 50px;
+  }
+  #newpost input {
+    width: 90%;
+    height: 100px;
+    background-color: aliceblue;
+    border: solid 1px gray;
+    border-radius: 10px;
+    margin: 0px 10px 0px 10px;
+  }
+  #newpost button {
+  
+  height: 40%;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(100, 92, 223);
+    color: aliceblue;
+    font-size: large;
+    cursor: pointer;
+  }
+  

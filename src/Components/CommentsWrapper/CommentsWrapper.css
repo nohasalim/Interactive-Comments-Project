@@ -1,0 +1,53 @@
+.WrapperDiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .post {
+    display:flex;
+    margin: 20px;
+    padding: 20px;
+    background-color: #e9edf0;
+    border-radius: 10px;
+  }
+  
+    
+  #counterDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 50px;
+    height: 150px;
+    gap: 20px;
+    background-color: rgb(214, 224, 231);
+    border-radius: 10px;
+    margin-right: 10px;
+  }
+  #counterDiv button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+  }
+   
+  
+  #userDiv,#userDiv div
+   {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+  }
+  #div2 button{
+    border:none;
+    background-color: transparent;
+    color:rgb(97, 87, 174);
+    cursor: pointer;
+    font-weight: bold;
+    
+  }
+  
+  
+  
